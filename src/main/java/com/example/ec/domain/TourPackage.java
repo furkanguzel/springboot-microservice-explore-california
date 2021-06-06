@@ -5,6 +5,11 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import java.util.Objects;
 
+/**
+ * A Classification of Tours.
+ *
+ * Created by Mary Ellen Bowman
+ */
 @Entity
 public class TourPackage {
     @Id
